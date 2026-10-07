@@ -4,7 +4,7 @@ export const siteConfig = {
   name: "Vighneswara Manda",
   description:
     "Software Engineer, Python Developer & AWS Certified Solutions Architect specializing in automation workflows, NLP, and scalable cloud systems.",
-  url: "https://vighneswara-manda.dev",
+  url: "https://vighneswaramanda.co.in",
   ogImage: "/suitphoto.png",
   creator: "@hacker6171",
   authors: [
